@@ -1,0 +1,5 @@
+networkx
+node2vec
+pytorch
+spacy
+datasets
